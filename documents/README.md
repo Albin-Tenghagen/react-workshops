@@ -12,12 +12,12 @@ Navigera till projektMappen
 
 - Terminal kod
 
-* npm create vite@latest react-vite-demo
+* npm create vite@latest vite-react
 
 * ✔ Select a framework: › React
 * ✔ Select a variant: › TypeScript
 
-* cd react-vite-demo
+* cd vite-react
 
 * npm install
 
