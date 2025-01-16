@@ -1,5 +1,5 @@
 import ProfileCard from "./Profilecard";
-
+//* ProfileParent creates a user object and passes it as a prop to ProfileCard.
 function ProfileParent(){
     const user = {
         name: 'Nicodemus Naveltuta',
